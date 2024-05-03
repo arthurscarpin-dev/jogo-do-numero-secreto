@@ -1,5 +1,8 @@
 # Jogo do número secreto
 #### Esse jogo foi desenvolvido para colocar em prática os meus conhecimentos de lógica de programação.
+<div>
+  <p>O intuito desse jogo é que o usuário digite um número entre 1 a 10 e acerte o número sorteado com o menor número de tentativas.</p>
+</div>
 
 ## Tecnologias utilizadas:
 <div>
